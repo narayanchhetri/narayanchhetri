@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Narayan
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning microsoft 365 Security
+- 🌱 I’m currently learning Microsoft 365 Security
 
 
 <!---
